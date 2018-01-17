@@ -2,4 +2,4 @@
 test
 
 
-test is everythhing
+test is everything
